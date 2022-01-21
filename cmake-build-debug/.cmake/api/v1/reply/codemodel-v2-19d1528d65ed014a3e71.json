@@ -15,7 +15,10 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2,
+						3
 					]
 				}
 			],
@@ -30,12 +33,36 @@
 					"name" : "LeetCode_Cpp",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2,
+						3
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-two-sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-two-sum-Debug-6208bfd841b17994f161.json",
+					"name" : "1-two-sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13-roman-to-integer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13-roman-to-integer-Debug-82a6a301d57b183ddfc2.json",
+					"name" : "13-roman-to-integer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "202-happy-number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-202-happy-number-Debug-ea88e36ed484d107e91e.json",
+					"name" : "202-happy-number",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "LeetCode_Cpp::@6890427a1f51a3e7e1df",
