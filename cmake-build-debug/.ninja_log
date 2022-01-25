@@ -1,11 +1,11 @@
 # ninja log v5
 1	273	1642731882218005196	CMakeFiles/1-two-sum.dir/leetcode/editor/cn/1-two-sum.cpp.o	e6cc2a2c1f7bb394
+227	258	1642740850653827349	202-happy-number	3e198b9d24e38ea0
 1	284	1642735390871397234	CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o	93ecaee4b896e524
 284	318	1642735390906984063	13-roman-to-integer	df8e80ae1860696d
 273	310	1642731882256966128	1-two-sum	128259b8924f4888
-0	234	1642740076912711507	CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o	65d4685b462ec3f7
-234	269	1642740076948273916	202-happy-number	3e198b9d24e38ea0
-2	244	1642740844760398061	CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o	65d4685b462ec3f7
-244	280	1642740844797266756	202-happy-number	3e198b9d24e38ea0
 1	227	1642740850621741872	CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o	65d4685b462ec3f7
-227	258	1642740850653827349	202-happy-number	3e198b9d24e38ea0
+0	1821	1642994958432626934	CMakeFiles/26-remove-duplicates-from-sorted-array.dir/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp.o	ab8b70286ed2158b
+1821	2026	1642994958639087422	26-remove-duplicates-from-sorted-array	5d7f966c7ef17b3d
+1	261	1642995582050929295	CMakeFiles/26-remove-duplicates-from-sorted-array.dir/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp.o	ab8b70286ed2158b
+261	295	1642995582085558425	26-remove-duplicates-from-sorted-array	5d7f966c7ef17b3d

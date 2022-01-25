@@ -53,79 +53,6 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
-# Object build statements for EXECUTABLE target LeetCode_Cpp
-
-
-#############################################
-# Order-only phony target for LeetCode_Cpp
-
-build cmake_object_order_depends_target_LeetCode_Cpp: phony || CMakeFiles/LeetCode_Cpp.dir
-
-build CMakeFiles/LeetCode_Cpp.dir/main.cpp.o: CXX_COMPILER__LeetCode_Cpp_Debug /Users/jacoblee/Documents/LeetCode-Cpp/main.cpp || cmake_object_order_depends_target_LeetCode_Cpp
-  DEP_FILE = CMakeFiles/LeetCode_Cpp.dir/main.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
-  OBJECT_DIR = CMakeFiles/LeetCode_Cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/LeetCode_Cpp.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target LeetCode_Cpp
-
-
-#############################################
-# Link the executable LeetCode_Cpp
-
-build LeetCode_Cpp: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCode_Cpp.dir/main.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
-  OBJECT_DIR = CMakeFiles/LeetCode_Cpp.dir
-  POST_BUILD = :
-  PRE_LINK = :
-  TARGET_FILE = LeetCode_Cpp
-  TARGET_PDB = LeetCode_Cpp.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 202-happy-number
-
-
-#############################################
-# Order-only phony target for 202-happy-number
-
-build cmake_object_order_depends_target_202-happy-number: phony || CMakeFiles/202-happy-number.dir
-
-build CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o: CXX_COMPILER__202-happy-number_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/202-happy-number.cpp || cmake_object_order_depends_target_202-happy-number
-  DEP_FILE = CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
-  OBJECT_DIR = CMakeFiles/202-happy-number.dir
-  OBJECT_FILE_DIR = CMakeFiles/202-happy-number.dir/leetcode/editor/cn
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 202-happy-number
-
-
-#############################################
-# Link the executable 202-happy-number
-
-build 202-happy-number: CXX_EXECUTABLE_LINKER__202-happy-number_Debug CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
-  OBJECT_DIR = CMakeFiles/202-happy-number.dir
-  POST_BUILD = :
-  PRE_LINK = :
-  TARGET_FILE = 202-happy-number
-  TARGET_PDB = 202-happy-number.dbg
-
-
-#############################################
-# Utility command for edit_cache
-
-build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-  DESC = No interactive CMake dialog available...
-  restat = 1
-
-build edit_cache: phony CMakeFiles/edit_cache.util
-
-# =============================================================================
 # Object build statements for EXECUTABLE target 13-roman-to-integer
 
 
@@ -188,6 +115,110 @@ build 1-two-sum: CXX_EXECUTABLE_LINKER__1-two-sum_Debug CMakeFiles/1-two-sum.dir
   TARGET_PDB = 1-two-sum.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 26-remove-duplicates-from-sorted-array
+
+
+#############################################
+# Order-only phony target for 26-remove-duplicates-from-sorted-array
+
+build cmake_object_order_depends_target_26-remove-duplicates-from-sorted-array: phony || CMakeFiles/26-remove-duplicates-from-sorted-array.dir
+
+build CMakeFiles/26-remove-duplicates-from-sorted-array.dir/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp.o: CXX_COMPILER__26-remove-duplicates-from-sorted-array_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp || cmake_object_order_depends_target_26-remove-duplicates-from-sorted-array
+  DEP_FILE = CMakeFiles/26-remove-duplicates-from-sorted-array.dir/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/26-remove-duplicates-from-sorted-array.dir
+  OBJECT_FILE_DIR = CMakeFiles/26-remove-duplicates-from-sorted-array.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 26-remove-duplicates-from-sorted-array
+
+
+#############################################
+# Link the executable 26-remove-duplicates-from-sorted-array
+
+build 26-remove-duplicates-from-sorted-array: CXX_EXECUTABLE_LINKER__26-remove-duplicates-from-sorted-array_Debug CMakeFiles/26-remove-duplicates-from-sorted-array.dir/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/26-remove-duplicates-from-sorted-array.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 26-remove-duplicates-from-sorted-array
+  TARGET_PDB = 26-remove-duplicates-from-sorted-array.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 202-happy-number
+
+
+#############################################
+# Order-only phony target for 202-happy-number
+
+build cmake_object_order_depends_target_202-happy-number: phony || CMakeFiles/202-happy-number.dir
+
+build CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o: CXX_COMPILER__202-happy-number_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/202-happy-number.cpp || cmake_object_order_depends_target_202-happy-number
+  DEP_FILE = CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/202-happy-number.dir
+  OBJECT_FILE_DIR = CMakeFiles/202-happy-number.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 202-happy-number
+
+
+#############################################
+# Link the executable 202-happy-number
+
+build 202-happy-number: CXX_EXECUTABLE_LINKER__202-happy-number_Debug CMakeFiles/202-happy-number.dir/leetcode/editor/cn/202-happy-number.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/202-happy-number.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 202-happy-number
+  TARGET_PDB = 202-happy-number.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LeetCode_Cpp
+
+
+#############################################
+# Order-only phony target for LeetCode_Cpp
+
+build cmake_object_order_depends_target_LeetCode_Cpp: phony || CMakeFiles/LeetCode_Cpp.dir
+
+build CMakeFiles/LeetCode_Cpp.dir/main.cpp.o: CXX_COMPILER__LeetCode_Cpp_Debug /Users/jacoblee/Documents/LeetCode-Cpp/main.cpp || cmake_object_order_depends_target_LeetCode_Cpp
+  DEP_FILE = CMakeFiles/LeetCode_Cpp.dir/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/LeetCode_Cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/LeetCode_Cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LeetCode_Cpp
+
+
+#############################################
+# Link the executable LeetCode_Cpp
+
+build LeetCode_Cpp: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCode_Cpp.dir/main.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/LeetCode_Cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = LeetCode_Cpp
+  TARGET_PDB = LeetCode_Cpp.dbg
+
+# =============================================================================
 # Target aliases.
 
 # =============================================================================
@@ -198,7 +229,7 @@ build 1-two-sum: CXX_EXECUTABLE_LINKER__1-two-sum_Debug CMakeFiles/1-two-sum.dir
 #############################################
 # Folder: /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug
 
-build all: phony LeetCode_Cpp 202-happy-number 13-roman-to-integer 1-two-sum
+build all: phony 13-roman-to-integer 1-two-sum 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
 
 # =============================================================================
 # Built-in targets

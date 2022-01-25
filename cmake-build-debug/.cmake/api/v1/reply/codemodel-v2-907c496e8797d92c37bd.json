@@ -18,7 +18,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -36,7 +37,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -61,6 +63,13 @@
 					"id" : "202-happy-number::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-202-happy-number-Debug-ea88e36ed484d107e91e.json",
 					"name" : "202-happy-number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "26-remove-duplicates-from-sorted-array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-26-remove-duplicates-from-sorted-array-Debug-87bab3b17eb2b52443de.json",
+					"name" : "26-remove-duplicates-from-sorted-array",
 					"projectIndex" : 0
 				},
 				{
