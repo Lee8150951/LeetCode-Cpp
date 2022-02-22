@@ -19,7 +19,13 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -38,7 +44,13 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -60,6 +72,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "169-majority-element::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-169-majority-element-Debug-d6a636150cee877cdc4b.json",
+					"name" : "169-majority-element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "202-happy-number::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-202-happy-number-Debug-ea88e36ed484d107e91e.json",
 					"name" : "202-happy-number",
@@ -74,9 +93,44 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "27-remove-element::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-27-remove-element-Debug-55d2ae29e3d5931a78f2.json",
+					"name" : "27-remove-element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "35-search-insert-position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-35-search-insert-position-Debug-36a626171ee9f0b8129a.json",
+					"name" : "35-search-insert-position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "66-plus-one::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-66-plus-one-Debug-1c95f3a873557191f5a8.json",
+					"name" : "66-plus-one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "88-merge-sorted-array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-88-merge-sorted-array-Debug-fcc596e5f1c522c81256.json",
+					"name" : "88-merge-sorted-array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "LeetCode_Cpp::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-LeetCode_Cpp-Debug-ea92f9c79ea7149c6172.json",
 					"name" : "LeetCode_Cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binary-search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary-search-Debug-8d422408788172fc9d75.json",
+					"name" : "binary-search",
 					"projectIndex" : 0
 				}
 			]

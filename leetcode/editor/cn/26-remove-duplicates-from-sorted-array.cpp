@@ -25,6 +25,7 @@ public:
 };
 //leetcode submit region end(Prohibit modification and deletion)
 
+
 int main() {
     Solution s;
     vector<int> data = {1, 2, 3, 4, 4, 5, 5};

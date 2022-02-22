@@ -53,35 +53,170 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 13-roman-to-integer
+# Object build statements for EXECUTABLE target 66-plus-one
 
 
 #############################################
-# Order-only phony target for 13-roman-to-integer
+# Order-only phony target for 66-plus-one
 
-build cmake_object_order_depends_target_13-roman-to-integer: phony || CMakeFiles/13-roman-to-integer.dir
+build cmake_object_order_depends_target_66-plus-one: phony || CMakeFiles/66-plus-one.dir
 
-build CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o: CXX_COMPILER__13-roman-to-integer_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/13-roman-to-integer.cpp || cmake_object_order_depends_target_13-roman-to-integer
-  DEP_FILE = CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o.d
+build CMakeFiles/66-plus-one.dir/leetcode/editor/cn/66-plus-one.cpp.o: CXX_COMPILER__66-plus-one_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/66-plus-one.cpp || cmake_object_order_depends_target_66-plus-one
+  DEP_FILE = CMakeFiles/66-plus-one.dir/leetcode/editor/cn/66-plus-one.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
-  OBJECT_DIR = CMakeFiles/13-roman-to-integer.dir
-  OBJECT_FILE_DIR = CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn
+  OBJECT_DIR = CMakeFiles/66-plus-one.dir
+  OBJECT_FILE_DIR = CMakeFiles/66-plus-one.dir/leetcode/editor/cn
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 13-roman-to-integer
+# Link build statements for EXECUTABLE target 66-plus-one
 
 
 #############################################
-# Link the executable 13-roman-to-integer
+# Link the executable 66-plus-one
 
-build 13-roman-to-integer: CXX_EXECUTABLE_LINKER__13-roman-to-integer_Debug CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o
+build 66-plus-one: CXX_EXECUTABLE_LINKER__66-plus-one_Debug CMakeFiles/66-plus-one.dir/leetcode/editor/cn/66-plus-one.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
-  OBJECT_DIR = CMakeFiles/13-roman-to-integer.dir
+  OBJECT_DIR = CMakeFiles/66-plus-one.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 13-roman-to-integer
-  TARGET_PDB = 13-roman-to-integer.dbg
+  TARGET_FILE = 66-plus-one
+  TARGET_PDB = 66-plus-one.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 35-search-insert-position
+
+
+#############################################
+# Order-only phony target for 35-search-insert-position
+
+build cmake_object_order_depends_target_35-search-insert-position: phony || CMakeFiles/35-search-insert-position.dir
+
+build CMakeFiles/35-search-insert-position.dir/leetcode/editor/cn/35-search-insert-position.cpp.o: CXX_COMPILER__35-search-insert-position_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/35-search-insert-position.cpp || cmake_object_order_depends_target_35-search-insert-position
+  DEP_FILE = CMakeFiles/35-search-insert-position.dir/leetcode/editor/cn/35-search-insert-position.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/35-search-insert-position.dir
+  OBJECT_FILE_DIR = CMakeFiles/35-search-insert-position.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 35-search-insert-position
+
+
+#############################################
+# Link the executable 35-search-insert-position
+
+build 35-search-insert-position: CXX_EXECUTABLE_LINKER__35-search-insert-position_Debug CMakeFiles/35-search-insert-position.dir/leetcode/editor/cn/35-search-insert-position.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/35-search-insert-position.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 35-search-insert-position
+  TARGET_PDB = 35-search-insert-position.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 27-remove-element
+
+
+#############################################
+# Order-only phony target for 27-remove-element
+
+build cmake_object_order_depends_target_27-remove-element: phony || CMakeFiles/27-remove-element.dir
+
+build CMakeFiles/27-remove-element.dir/leetcode/editor/cn/27-remove-element.cpp.o: CXX_COMPILER__27-remove-element_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/27-remove-element.cpp || cmake_object_order_depends_target_27-remove-element
+  DEP_FILE = CMakeFiles/27-remove-element.dir/leetcode/editor/cn/27-remove-element.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/27-remove-element.dir
+  OBJECT_FILE_DIR = CMakeFiles/27-remove-element.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 27-remove-element
+
+
+#############################################
+# Link the executable 27-remove-element
+
+build 27-remove-element: CXX_EXECUTABLE_LINKER__27-remove-element_Debug CMakeFiles/27-remove-element.dir/leetcode/editor/cn/27-remove-element.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/27-remove-element.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 27-remove-element
+  TARGET_PDB = 27-remove-element.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 169-majority-element
+
+
+#############################################
+# Order-only phony target for 169-majority-element
+
+build cmake_object_order_depends_target_169-majority-element: phony || CMakeFiles/169-majority-element.dir
+
+build CMakeFiles/169-majority-element.dir/leetcode/editor/cn/169-majority-element.cpp.o: CXX_COMPILER__169-majority-element_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/169-majority-element.cpp || cmake_object_order_depends_target_169-majority-element
+  DEP_FILE = CMakeFiles/169-majority-element.dir/leetcode/editor/cn/169-majority-element.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/169-majority-element.dir
+  OBJECT_FILE_DIR = CMakeFiles/169-majority-element.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 169-majority-element
+
+
+#############################################
+# Link the executable 169-majority-element
+
+build 169-majority-element: CXX_EXECUTABLE_LINKER__169-majority-element_Debug CMakeFiles/169-majority-element.dir/leetcode/editor/cn/169-majority-element.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/169-majority-element.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 169-majority-element
+  TARGET_PDB = 169-majority-element.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 88-merge-sorted-array
+
+
+#############################################
+# Order-only phony target for 88-merge-sorted-array
+
+build cmake_object_order_depends_target_88-merge-sorted-array: phony || CMakeFiles/88-merge-sorted-array.dir
+
+build CMakeFiles/88-merge-sorted-array.dir/leetcode/editor/cn/88-merge-sorted-array.cpp.o: CXX_COMPILER__88-merge-sorted-array_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/88-merge-sorted-array.cpp || cmake_object_order_depends_target_88-merge-sorted-array
+  DEP_FILE = CMakeFiles/88-merge-sorted-array.dir/leetcode/editor/cn/88-merge-sorted-array.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/88-merge-sorted-array.dir
+  OBJECT_FILE_DIR = CMakeFiles/88-merge-sorted-array.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 88-merge-sorted-array
+
+
+#############################################
+# Link the executable 88-merge-sorted-array
+
+build 88-merge-sorted-array: CXX_EXECUTABLE_LINKER__88-merge-sorted-array_Debug CMakeFiles/88-merge-sorted-array.dir/leetcode/editor/cn/88-merge-sorted-array.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/88-merge-sorted-array.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 88-merge-sorted-array
+  TARGET_PDB = 88-merge-sorted-array.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 1-two-sum
@@ -115,6 +250,68 @@ build 1-two-sum: CXX_EXECUTABLE_LINKER__1-two-sum_Debug CMakeFiles/1-two-sum.dir
   TARGET_PDB = 1-two-sum.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target binary-search
+
+
+#############################################
+# Order-only phony target for binary-search
+
+build cmake_object_order_depends_target_binary-search: phony || CMakeFiles/binary-search.dir
+
+build CMakeFiles/binary-search.dir/common-algorithm/二分查找.cpp.o: CXX_COMPILER__binary-search_Debug /Users/jacoblee/Documents/LeetCode-Cpp/common-algorithm/二分查找.cpp || cmake_object_order_depends_target_binary-search
+  DEP_FILE = CMakeFiles/binary-search.dir/common-algorithm/二分查找.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/binary-search.dir
+  OBJECT_FILE_DIR = CMakeFiles/binary-search.dir/common-algorithm
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target binary-search
+
+
+#############################################
+# Link the executable binary-search
+
+build binary-search: CXX_EXECUTABLE_LINKER__binary-search_Debug CMakeFiles/binary-search.dir/common-algorithm/二分查找.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/binary-search.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = binary-search
+  TARGET_PDB = binary-search.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13-roman-to-integer
+
+
+#############################################
+# Order-only phony target for 13-roman-to-integer
+
+build cmake_object_order_depends_target_13-roman-to-integer: phony || CMakeFiles/13-roman-to-integer.dir
+
+build CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o: CXX_COMPILER__13-roman-to-integer_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/13-roman-to-integer.cpp || cmake_object_order_depends_target_13-roman-to-integer
+  DEP_FILE = CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/13-roman-to-integer.dir
+  OBJECT_FILE_DIR = CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13-roman-to-integer
+
+
+#############################################
+# Link the executable 13-roman-to-integer
+
+build 13-roman-to-integer: CXX_EXECUTABLE_LINKER__13-roman-to-integer_Debug CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/13-roman-to-integer.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13-roman-to-integer
+  TARGET_PDB = 13-roman-to-integer.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 26-remove-duplicates-from-sorted-array
 
 
@@ -144,17 +341,6 @@ build 26-remove-duplicates-from-sorted-array: CXX_EXECUTABLE_LINKER__26-remove-d
   PRE_LINK = :
   TARGET_FILE = 26-remove-duplicates-from-sorted-array
   TARGET_PDB = 26-remove-duplicates-from-sorted-array.dbg
-
-
-#############################################
-# Utility command for edit_cache
-
-build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-  DESC = No interactive CMake dialog available...
-  restat = 1
-
-build edit_cache: phony CMakeFiles/edit_cache.util
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 202-happy-number
@@ -229,7 +415,7 @@ build LeetCode_Cpp: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCod
 #############################################
 # Folder: /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug
 
-build all: phony 13-roman-to-integer 1-two-sum 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
+build all: phony 66-plus-one 35-search-insert-position 27-remove-element 169-majority-element 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
 
 # =============================================================================
 # Built-in targets
