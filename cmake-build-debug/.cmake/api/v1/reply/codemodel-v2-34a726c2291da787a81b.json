@@ -25,7 +25,9 @@
 						7,
 						8,
 						9,
-						10
+						10,
+						11,
+						12
 					]
 				}
 			],
@@ -50,7 +52,9 @@
 						7,
 						8,
 						9,
-						10
+						10,
+						11,
+						12
 					]
 				}
 			],
@@ -61,6 +65,20 @@
 					"id" : "1-two-sum::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-1-two-sum-Debug-6208bfd841b17994f161.json",
 					"name" : "1-two-sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "118-pascals-triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-118-pascals-triangle-Debug-0eed5d3f77079666b680.json",
+					"name" : "118-pascals-triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "119-pascals-triangle-ii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-119-pascals-triangle-ii-Debug-ebdc4a32b87862922cdc.json",
+					"name" : "119-pascals-triangle-ii",
 					"projectIndex" : 0
 				},
 				{

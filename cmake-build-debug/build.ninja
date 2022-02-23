@@ -53,6 +53,37 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 118-pascals-triangle
+
+
+#############################################
+# Order-only phony target for 118-pascals-triangle
+
+build cmake_object_order_depends_target_118-pascals-triangle: phony || CMakeFiles/118-pascals-triangle.dir
+
+build CMakeFiles/118-pascals-triangle.dir/leetcode/editor/cn/118-pascals-triangle.cpp.o: CXX_COMPILER__118-pascals-triangle_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/118-pascals-triangle.cpp || cmake_object_order_depends_target_118-pascals-triangle
+  DEP_FILE = CMakeFiles/118-pascals-triangle.dir/leetcode/editor/cn/118-pascals-triangle.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/118-pascals-triangle.dir
+  OBJECT_FILE_DIR = CMakeFiles/118-pascals-triangle.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 118-pascals-triangle
+
+
+#############################################
+# Link the executable 118-pascals-triangle
+
+build 118-pascals-triangle: CXX_EXECUTABLE_LINKER__118-pascals-triangle_Debug CMakeFiles/118-pascals-triangle.dir/leetcode/editor/cn/118-pascals-triangle.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/118-pascals-triangle.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 118-pascals-triangle
+  TARGET_PDB = 118-pascals-triangle.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 66-plus-one
 
 
@@ -113,6 +144,37 @@ build 35-search-insert-position: CXX_EXECUTABLE_LINKER__35-search-insert-positio
   PRE_LINK = :
   TARGET_FILE = 35-search-insert-position
   TARGET_PDB = 35-search-insert-position.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 119-pascals-triangle-ii
+
+
+#############################################
+# Order-only phony target for 119-pascals-triangle-ii
+
+build cmake_object_order_depends_target_119-pascals-triangle-ii: phony || CMakeFiles/119-pascals-triangle-ii.dir
+
+build CMakeFiles/119-pascals-triangle-ii.dir/leetcode/editor/cn/119-pascals-triangle-ii.cpp.o: CXX_COMPILER__119-pascals-triangle-ii_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/119-pascals-triangle-ii.cpp || cmake_object_order_depends_target_119-pascals-triangle-ii
+  DEP_FILE = CMakeFiles/119-pascals-triangle-ii.dir/leetcode/editor/cn/119-pascals-triangle-ii.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/119-pascals-triangle-ii.dir
+  OBJECT_FILE_DIR = CMakeFiles/119-pascals-triangle-ii.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 119-pascals-triangle-ii
+
+
+#############################################
+# Link the executable 119-pascals-triangle-ii
+
+build 119-pascals-triangle-ii: CXX_EXECUTABLE_LINKER__119-pascals-triangle-ii_Debug CMakeFiles/119-pascals-triangle-ii.dir/leetcode/editor/cn/119-pascals-triangle-ii.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/119-pascals-triangle-ii.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 119-pascals-triangle-ii
+  TARGET_PDB = 119-pascals-triangle-ii.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 27-remove-element
@@ -415,7 +477,7 @@ build LeetCode_Cpp: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCod
 #############################################
 # Folder: /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug
 
-build all: phony 66-plus-one 35-search-insert-position 27-remove-element 169-majority-element 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
+build all: phony 118-pascals-triangle 66-plus-one 35-search-insert-position 119-pascals-triangle-ii 27-remove-element 169-majority-element 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
 
 # =============================================================================
 # Built-in targets

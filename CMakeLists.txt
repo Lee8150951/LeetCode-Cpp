@@ -15,3 +15,5 @@ add_executable(35-search-insert-position leetcode/editor/cn/35-search-insert-pos
 add_executable(66-plus-one leetcode/editor/cn/66-plus-one.cpp)
 add_executable(88-merge-sorted-array leetcode/editor/cn/88-merge-sorted-array.cpp)
 add_executable(169-majority-element leetcode/editor/cn/169-majority-element.cpp)
+add_executable(118-pascals-triangle leetcode/editor/cn/118-pascals-triangle.cpp)
+add_executable(119-pascals-triangle-ii leetcode/editor/cn/119-pascals-triangle-ii.cpp)
