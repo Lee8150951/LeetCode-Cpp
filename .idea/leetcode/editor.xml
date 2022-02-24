@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/14-longest-common-prefix.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/14-longest-common-prefix.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com14" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/14-longest-common-prefix.cpp" />
+              <option name="titleSlug" value="longest-common-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/169-majority-element.cpp">
           <value>
             <LeetcodeEditor>
@@ -55,6 +66,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/169-majority-element.cpp" />
               <option name="titleSlug" value="majority-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/20-valid-parentheses.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/20-valid-parentheses.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com20" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/20-valid-parentheses.cpp" />
+              <option name="titleSlug" value="valid-parentheses" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -1,4 +1,6 @@
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/20-valid-parentheses.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/14-longest-common-prefix.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/118-pascals-triangle.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/66-plus-one.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/35-search-insert-position.dir

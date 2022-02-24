@@ -53,6 +53,68 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 20-valid-parentheses
+
+
+#############################################
+# Order-only phony target for 20-valid-parentheses
+
+build cmake_object_order_depends_target_20-valid-parentheses: phony || CMakeFiles/20-valid-parentheses.dir
+
+build CMakeFiles/20-valid-parentheses.dir/leetcode/editor/cn/20-valid-parentheses.cpp.o: CXX_COMPILER__20-valid-parentheses_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/20-valid-parentheses.cpp || cmake_object_order_depends_target_20-valid-parentheses
+  DEP_FILE = CMakeFiles/20-valid-parentheses.dir/leetcode/editor/cn/20-valid-parentheses.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/20-valid-parentheses.dir
+  OBJECT_FILE_DIR = CMakeFiles/20-valid-parentheses.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 20-valid-parentheses
+
+
+#############################################
+# Link the executable 20-valid-parentheses
+
+build 20-valid-parentheses: CXX_EXECUTABLE_LINKER__20-valid-parentheses_Debug CMakeFiles/20-valid-parentheses.dir/leetcode/editor/cn/20-valid-parentheses.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/20-valid-parentheses.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 20-valid-parentheses
+  TARGET_PDB = 20-valid-parentheses.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14-longest-common-prefix
+
+
+#############################################
+# Order-only phony target for 14-longest-common-prefix
+
+build cmake_object_order_depends_target_14-longest-common-prefix: phony || CMakeFiles/14-longest-common-prefix.dir
+
+build CMakeFiles/14-longest-common-prefix.dir/leetcode/editor/cn/14-longest-common-prefix.cpp.o: CXX_COMPILER__14-longest-common-prefix_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/14-longest-common-prefix.cpp || cmake_object_order_depends_target_14-longest-common-prefix
+  DEP_FILE = CMakeFiles/14-longest-common-prefix.dir/leetcode/editor/cn/14-longest-common-prefix.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/14-longest-common-prefix.dir
+  OBJECT_FILE_DIR = CMakeFiles/14-longest-common-prefix.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14-longest-common-prefix
+
+
+#############################################
+# Link the executable 14-longest-common-prefix
+
+build 14-longest-common-prefix: CXX_EXECUTABLE_LINKER__14-longest-common-prefix_Debug CMakeFiles/14-longest-common-prefix.dir/leetcode/editor/cn/14-longest-common-prefix.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/14-longest-common-prefix.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 14-longest-common-prefix
+  TARGET_PDB = 14-longest-common-prefix.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 118-pascals-triangle
 
 
@@ -477,7 +539,7 @@ build LeetCode_Cpp: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCod
 #############################################
 # Folder: /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug
 
-build all: phony 118-pascals-triangle 66-plus-one 35-search-insert-position 119-pascals-triangle-ii 27-remove-element 169-majority-element 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
+build all: phony 20-valid-parentheses 14-longest-common-prefix 118-pascals-triangle 66-plus-one 35-search-insert-position 119-pascals-triangle-ii 27-remove-element 169-majority-element 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
 
 # =============================================================================
 # Built-in targets
