@@ -84,6 +84,37 @@ build 20-valid-parentheses: CXX_EXECUTABLE_LINKER__20-valid-parentheses_Debug CM
   TARGET_PDB = 20-valid-parentheses.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 58-length-of-last-word
+
+
+#############################################
+# Order-only phony target for 58-length-of-last-word
+
+build cmake_object_order_depends_target_58-length-of-last-word: phony || CMakeFiles/58-length-of-last-word.dir
+
+build CMakeFiles/58-length-of-last-word.dir/leetcode/editor/cn/58-length-of-last-word.cpp.o: CXX_COMPILER__58-length-of-last-word_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/58-length-of-last-word.cpp || cmake_object_order_depends_target_58-length-of-last-word
+  DEP_FILE = CMakeFiles/58-length-of-last-word.dir/leetcode/editor/cn/58-length-of-last-word.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/58-length-of-last-word.dir
+  OBJECT_FILE_DIR = CMakeFiles/58-length-of-last-word.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 58-length-of-last-word
+
+
+#############################################
+# Link the executable 58-length-of-last-word
+
+build 58-length-of-last-word: CXX_EXECUTABLE_LINKER__58-length-of-last-word_Debug CMakeFiles/58-length-of-last-word.dir/leetcode/editor/cn/58-length-of-last-word.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/58-length-of-last-word.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 58-length-of-last-word
+  TARGET_PDB = 58-length-of-last-word.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 14-longest-common-prefix
 
 
@@ -310,6 +341,37 @@ build 169-majority-element: CXX_EXECUTABLE_LINKER__169-majority-element_Debug CM
   PRE_LINK = :
   TARGET_FILE = 169-majority-element
   TARGET_PDB = 169-majority-element.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 28-implement-strstr
+
+
+#############################################
+# Order-only phony target for 28-implement-strstr
+
+build cmake_object_order_depends_target_28-implement-strstr: phony || CMakeFiles/28-implement-strstr.dir
+
+build CMakeFiles/28-implement-strstr.dir/leetcode/editor/cn/28-implement-strstr.cpp.o: CXX_COMPILER__28-implement-strstr_Debug /Users/jacoblee/Documents/LeetCode-Cpp/leetcode/editor/cn/28-implement-strstr.cpp || cmake_object_order_depends_target_28-implement-strstr
+  DEP_FILE = CMakeFiles/28-implement-strstr.dir/leetcode/editor/cn/28-implement-strstr.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/28-implement-strstr.dir
+  OBJECT_FILE_DIR = CMakeFiles/28-implement-strstr.dir/leetcode/editor/cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 28-implement-strstr
+
+
+#############################################
+# Link the executable 28-implement-strstr
+
+build 28-implement-strstr: CXX_EXECUTABLE_LINKER__28-implement-strstr_Debug CMakeFiles/28-implement-strstr.dir/leetcode/editor/cn/28-implement-strstr.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
+  OBJECT_DIR = CMakeFiles/28-implement-strstr.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 28-implement-strstr
+  TARGET_PDB = 28-implement-strstr.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 88-merge-sorted-array
@@ -539,7 +601,7 @@ build LeetCode_Cpp: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCod
 #############################################
 # Folder: /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug
 
-build all: phony 20-valid-parentheses 14-longest-common-prefix 118-pascals-triangle 66-plus-one 35-search-insert-position 119-pascals-triangle-ii 27-remove-element 169-majority-element 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
+build all: phony 20-valid-parentheses 58-length-of-last-word 14-longest-common-prefix 118-pascals-triangle 66-plus-one 35-search-insert-position 119-pascals-triangle-ii 27-remove-element 169-majority-element 28-implement-strstr 88-merge-sorted-array 1-two-sum binary-search 13-roman-to-integer 26-remove-duplicates-from-sorted-array 202-happy-number LeetCode_Cpp
 
 # =============================================================================
 # Built-in targets

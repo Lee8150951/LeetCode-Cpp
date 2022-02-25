@@ -1,5 +1,6 @@
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/20-valid-parentheses.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/58-length-of-last-word.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/14-longest-common-prefix.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/118-pascals-triangle.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/66-plus-one.dir
@@ -8,6 +9,7 @@
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/27-remove-element.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/169-majority-element.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/28-implement-strstr.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/88-merge-sorted-array.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/1-two-sum.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/binary-search.dir

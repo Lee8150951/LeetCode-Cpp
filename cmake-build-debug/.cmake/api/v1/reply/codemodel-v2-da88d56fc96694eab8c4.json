@@ -29,7 +29,9 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15,
+						16
 					]
 				}
 			],
@@ -58,7 +60,9 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15,
+						16
 					]
 				}
 			],
@@ -136,9 +140,23 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "28-implement-strstr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-28-implement-strstr-Debug-2d6f0c173390ee31b4e4.json",
+					"name" : "28-implement-strstr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "35-search-insert-position::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-35-search-insert-position-Debug-36a626171ee9f0b8129a.json",
 					"name" : "35-search-insert-position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "58-length-of-last-word::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-58-length-of-last-word-Debug-34eebf9d7f1248ac52d0.json",
+					"name" : "58-length-of-last-word",
 					"projectIndex" : 0
 				},
 				{

@@ -113,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/28-implement-strstr.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/28-implement-strstr.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com28" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/28-implement-strstr.cpp" />
+              <option name="titleSlug" value="implement-strstr" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/35-search-insert-position.cpp">
           <value>
             <LeetcodeEditor>
@@ -132,6 +143,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/53-maximum-subarray.cpp" />
               <option name="titleSlug" value="maximum-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/58-length-of-last-word.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/58-length-of-last-word.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com58" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/58-length-of-last-word.cpp" />
+              <option name="titleSlug" value="length-of-last-word" />
             </LeetcodeEditor>
           </value>
         </entry>
