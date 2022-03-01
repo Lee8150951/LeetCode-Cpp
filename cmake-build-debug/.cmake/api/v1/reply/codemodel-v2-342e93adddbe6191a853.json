@@ -31,7 +31,11 @@
 						13,
 						14,
 						15,
-						16
+						16,
+						17,
+						18,
+						19,
+						20
 					]
 				}
 			],
@@ -62,7 +66,11 @@
 						13,
 						14,
 						15,
-						16
+						16,
+						17,
+						18,
+						19,
+						20
 					]
 				}
 			],
@@ -91,6 +99,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "125-valid-palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-125-valid-palindrome-Debug-1be32e46bb3fc16aef84.json",
+					"name" : "125-valid-palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "13-roman-to-integer::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-13-roman-to-integer-Debug-82a6a301d57b183ddfc2.json",
 					"name" : "13-roman-to-integer",
@@ -105,9 +120,23 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "168-excel-sheet-column-title::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-168-excel-sheet-column-title-Debug-ff2ca95aad10fedd519b.json",
+					"name" : "168-excel-sheet-column-title",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "169-majority-element::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-169-majority-element-Debug-d6a636150cee877cdc4b.json",
 					"name" : "169-majority-element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "171-excel-sheet-column-number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-171-excel-sheet-column-number-Debug-c2f7ac761e61292e2e04.json",
+					"name" : "171-excel-sheet-column-number",
 					"projectIndex" : 0
 				},
 				{
@@ -164,6 +193,13 @@
 					"id" : "66-plus-one::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-66-plus-one-Debug-1c95f3a873557191f5a8.json",
 					"name" : "66-plus-one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "67-add-binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-67-add-binary-Debug-25029f2f3dc40ddd1c9f.json",
+					"name" : "67-add-binary",
 					"projectIndex" : 0
 				},
 				{

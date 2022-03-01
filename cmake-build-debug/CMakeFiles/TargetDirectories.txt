@@ -1,5 +1,9 @@
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/171-excel-sheet-column-number.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/168-excel-sheet-column-title.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/67-add-binary.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/20-valid-parentheses.dir
+/Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/125-valid-palindrome.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/58-length-of-last-word.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/14-longest-common-prefix.dir
 /Users/jacoblee/Documents/LeetCode-Cpp/cmake-build-debug/CMakeFiles/118-pascals-triangle.dir

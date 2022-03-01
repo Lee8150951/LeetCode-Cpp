@@ -21,3 +21,7 @@ add_executable(14-longest-common-prefix leetcode/editor/cn/14-longest-common-pre
 add_executable(20-valid-parentheses leetcode/editor/cn/20-valid-parentheses.cpp)
 add_executable(28-implement-strstr leetcode/editor/cn/28-implement-strstr.cpp)
 add_executable(58-length-of-last-word leetcode/editor/cn/58-length-of-last-word.cpp)
+add_executable(67-add-binary leetcode/editor/cn/67-add-binary.cpp)
+add_executable(125-valid-palindrome leetcode/editor/cn/125-valid-palindrome.cpp)
+add_executable(168-excel-sheet-column-title leetcode/editor/cn/168-excel-sheet-column-title.cpp)
+add_executable(171-excel-sheet-column-number leetcode/editor/cn/171-excel-sheet-column-number.cpp)
