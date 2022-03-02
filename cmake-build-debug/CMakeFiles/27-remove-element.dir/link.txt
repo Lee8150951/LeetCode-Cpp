@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\27-remove-element.dir/objects.a
+"D:\JetBrains\CLion 2021.3.2\bin\mingw\bin\ar.exe" qc CMakeFiles\27-remove-element.dir/objects.a @CMakeFiles\27-remove-element.dir\objects1.rsp
+"D:\JetBrains\CLion 2021.3.2\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\27-remove-element.dir/objects.a -Wl,--no-whole-archive -o 27-remove-element.exe -Wl,--out-implib,lib27-remove-element.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\27-remove-element.dir\linklibs.rsp

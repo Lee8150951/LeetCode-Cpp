@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LeetCode_Cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-two-sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-two-sum-Debug-818b10588264aa267e5c.json",
+					"name" : "1-two-sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "118-pascals-triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-118-pascals-triangle-Debug-d4808661639431434b4e.json",
+					"name" : "118-pascals-triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "119-pascals-triangle-ii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-119-pascals-triangle-ii-Debug-cbb2562e1eefc084ff63.json",
+					"name" : "119-pascals-triangle-ii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "121-best-time-to-buy-and-sell-stock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-121-best-time-to-buy-and-sell-stock-Debug-32fcbadbd9d0881d3938.json",
+					"name" : "121-best-time-to-buy-and-sell-stock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "125-valid-palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-125-valid-palindrome-Debug-f73da5e79f26cb52f263.json",
+					"name" : "125-valid-palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13-roman-to-integer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13-roman-to-integer-Debug-1984044fdc16c543827f.json",
+					"name" : "13-roman-to-integer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14-longest-common-prefix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14-longest-common-prefix-Debug-07dc10ca70d41d934a23.json",
+					"name" : "14-longest-common-prefix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "168-excel-sheet-column-title::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-168-excel-sheet-column-title-Debug-261d5fbffc679158a4ea.json",
+					"name" : "168-excel-sheet-column-title",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "169-majority-element::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-169-majority-element-Debug-bedc82a2b04cf3ad1cfc.json",
+					"name" : "169-majority-element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "171-excel-sheet-column-number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-171-excel-sheet-column-number-Debug-5404ddb832adef3713a7.json",
+					"name" : "171-excel-sheet-column-number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "20-valid-parentheses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-20-valid-parentheses-Debug-0d78d517feac1028b380.json",
+					"name" : "20-valid-parentheses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "202-happy-number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-202-happy-number-Debug-d262ba26105eb5822f43.json",
+					"name" : "202-happy-number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "205-isomorphic-strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-205-isomorphic-strings-Debug-4c2aa4491babefc5e641.json",
+					"name" : "205-isomorphic-strings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "26-remove-duplicates-from-sorted-array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-26-remove-duplicates-from-sorted-array-Debug-4b5e32475ead5083b996.json",
+					"name" : "26-remove-duplicates-from-sorted-array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "27-remove-element::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-27-remove-element-Debug-beab6be029763e922ff9.json",
+					"name" : "27-remove-element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "28-implement-strstr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-28-implement-strstr-Debug-3e783596482a494de78f.json",
+					"name" : "28-implement-strstr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "35-search-insert-position::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-35-search-insert-position-Debug-89d6e97fc64e82842bc4.json",
+					"name" : "35-search-insert-position",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "58-length-of-last-word::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-58-length-of-last-word-Debug-579dd280e670fcc9c67b.json",
+					"name" : "58-length-of-last-word",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "66-plus-one::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-66-plus-one-Debug-8898a1154c2db2a1aa6b.json",
+					"name" : "66-plus-one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "67-add-binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-67-add-binary-Debug-63f976e7c700cac62f48.json",
+					"name" : "67-add-binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "69-sqrtx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-69-sqrtx-Debug-aabe686781f2fefac7a2.json",
+					"name" : "69-sqrtx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "88-merge-sorted-array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-88-merge-sorted-array-Debug-e1777d4ddf7c81e48176.json",
+					"name" : "88-merge-sorted-array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9-palindrome-number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-palindrome-number-Debug-71598a25b51e55ad137c.json",
+					"name" : "9-palindrome-number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeetCode_Cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeetCode_Cpp-Debug-0cc2d3209bcf2116ebe0.json",
+					"name" : "LeetCode_Cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binary-search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary-search-Debug-d8b86f3d9406c7449a0b.json",
+					"name" : "binary-search",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug",
+		"source" : "E:/CLionProjects/LeetCode-Cpp-master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
