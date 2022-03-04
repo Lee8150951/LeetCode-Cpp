@@ -29,3 +29,6 @@ add_executable(121-best-time-to-buy-and-sell-stock leetcode/editor/cn/121-best-t
 add_executable(205-isomorphic-strings leetcode/editor/cn/205-isomorphic-strings.cpp)
 add_executable(9-palindrome-number leetcode/editor/cn/9-palindrome-number.cpp)
 add_executable(69-sqrtx leetcode/editor/cn/69-sqrtx.cpp)
+add_executable(258-add-digits leetcode/editor/cn/258-add-digits.cpp)
+add_executable(11-container-with-most-water leetcode/editor/cn/11-container-with-most-water.cpp)
+add_executable(42-trapping-rain-water leetcode/editor/cn/42-trapping-rain-water.cpp)

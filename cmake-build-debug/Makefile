@@ -402,6 +402,19 @@ binary-search/fast:
 .PHONY : 121-best-time-to-buy-and-sell-stock/fast
 
 #=============================================================================
+# Target rules for targets named 258-add-digits
+
+# Build rule for target.
+258-add-digits: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 258-add-digits
+.PHONY : 258-add-digits
+
+# fast build rule for target.
+258-add-digits/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\258-add-digits.dir\build.make CMakeFiles/258-add-digits.dir/build
+.PHONY : 258-add-digits/fast
+
+#=============================================================================
 # Target rules for targets named 205-isomorphic-strings
 
 # Build rule for target.
@@ -439,6 +452,32 @@ binary-search/fast:
 69-sqrtx/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\69-sqrtx.dir\build.make CMakeFiles/69-sqrtx.dir/build
 .PHONY : 69-sqrtx/fast
+
+#=============================================================================
+# Target rules for targets named 11-container-with-most-water
+
+# Build rule for target.
+11-container-with-most-water: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 11-container-with-most-water
+.PHONY : 11-container-with-most-water
+
+# fast build rule for target.
+11-container-with-most-water/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11-container-with-most-water.dir\build.make CMakeFiles/11-container-with-most-water.dir/build
+.PHONY : 11-container-with-most-water/fast
+
+#=============================================================================
+# Target rules for targets named 42-trapping-rain-water
+
+# Build rule for target.
+42-trapping-rain-water: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 42-trapping-rain-water
+.PHONY : 42-trapping-rain-water
+
+# fast build rule for target.
+42-trapping-rain-water/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/build
+.PHONY : 42-trapping-rain-water/fast
 
 common-algorithm/二分查找.obj: common-algorithm/二分查找.cpp.obj
 .PHONY : common-algorithm/二分查找.obj
@@ -487,6 +526,30 @@ leetcode/editor/cn/1-two-sum.s: leetcode/editor/cn/1-two-sum.cpp.s
 leetcode/editor/cn/1-two-sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1-two-sum.dir\build.make CMakeFiles/1-two-sum.dir/leetcode/editor/cn/1-two-sum.cpp.s
 .PHONY : leetcode/editor/cn/1-two-sum.cpp.s
+
+leetcode/editor/cn/11-container-with-most-water.obj: leetcode/editor/cn/11-container-with-most-water.cpp.obj
+.PHONY : leetcode/editor/cn/11-container-with-most-water.obj
+
+# target to build an object file
+leetcode/editor/cn/11-container-with-most-water.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11-container-with-most-water.dir\build.make CMakeFiles/11-container-with-most-water.dir/leetcode/editor/cn/11-container-with-most-water.cpp.obj
+.PHONY : leetcode/editor/cn/11-container-with-most-water.cpp.obj
+
+leetcode/editor/cn/11-container-with-most-water.i: leetcode/editor/cn/11-container-with-most-water.cpp.i
+.PHONY : leetcode/editor/cn/11-container-with-most-water.i
+
+# target to preprocess a source file
+leetcode/editor/cn/11-container-with-most-water.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11-container-with-most-water.dir\build.make CMakeFiles/11-container-with-most-water.dir/leetcode/editor/cn/11-container-with-most-water.cpp.i
+.PHONY : leetcode/editor/cn/11-container-with-most-water.cpp.i
+
+leetcode/editor/cn/11-container-with-most-water.s: leetcode/editor/cn/11-container-with-most-water.cpp.s
+.PHONY : leetcode/editor/cn/11-container-with-most-water.s
+
+# target to generate assembly for a file
+leetcode/editor/cn/11-container-with-most-water.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\11-container-with-most-water.dir\build.make CMakeFiles/11-container-with-most-water.dir/leetcode/editor/cn/11-container-with-most-water.cpp.s
+.PHONY : leetcode/editor/cn/11-container-with-most-water.cpp.s
 
 leetcode/editor/cn/118-pascals-triangle.obj: leetcode/editor/cn/118-pascals-triangle.cpp.obj
 .PHONY : leetcode/editor/cn/118-pascals-triangle.obj
@@ -776,6 +839,30 @@ leetcode/editor/cn/205-isomorphic-strings.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\205-isomorphic-strings.dir\build.make CMakeFiles/205-isomorphic-strings.dir/leetcode/editor/cn/205-isomorphic-strings.cpp.s
 .PHONY : leetcode/editor/cn/205-isomorphic-strings.cpp.s
 
+leetcode/editor/cn/258-add-digits.obj: leetcode/editor/cn/258-add-digits.cpp.obj
+.PHONY : leetcode/editor/cn/258-add-digits.obj
+
+# target to build an object file
+leetcode/editor/cn/258-add-digits.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\258-add-digits.dir\build.make CMakeFiles/258-add-digits.dir/leetcode/editor/cn/258-add-digits.cpp.obj
+.PHONY : leetcode/editor/cn/258-add-digits.cpp.obj
+
+leetcode/editor/cn/258-add-digits.i: leetcode/editor/cn/258-add-digits.cpp.i
+.PHONY : leetcode/editor/cn/258-add-digits.i
+
+# target to preprocess a source file
+leetcode/editor/cn/258-add-digits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\258-add-digits.dir\build.make CMakeFiles/258-add-digits.dir/leetcode/editor/cn/258-add-digits.cpp.i
+.PHONY : leetcode/editor/cn/258-add-digits.cpp.i
+
+leetcode/editor/cn/258-add-digits.s: leetcode/editor/cn/258-add-digits.cpp.s
+.PHONY : leetcode/editor/cn/258-add-digits.s
+
+# target to generate assembly for a file
+leetcode/editor/cn/258-add-digits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\258-add-digits.dir\build.make CMakeFiles/258-add-digits.dir/leetcode/editor/cn/258-add-digits.cpp.s
+.PHONY : leetcode/editor/cn/258-add-digits.cpp.s
+
 leetcode/editor/cn/26-remove-duplicates-from-sorted-array.obj: leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp.obj
 .PHONY : leetcode/editor/cn/26-remove-duplicates-from-sorted-array.obj
 
@@ -871,6 +958,30 @@ leetcode/editor/cn/35-search-insert-position.s: leetcode/editor/cn/35-search-ins
 leetcode/editor/cn/35-search-insert-position.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\35-search-insert-position.dir\build.make CMakeFiles/35-search-insert-position.dir/leetcode/editor/cn/35-search-insert-position.cpp.s
 .PHONY : leetcode/editor/cn/35-search-insert-position.cpp.s
+
+leetcode/editor/cn/42-trapping-rain-water.obj: leetcode/editor/cn/42-trapping-rain-water.cpp.obj
+.PHONY : leetcode/editor/cn/42-trapping-rain-water.obj
+
+# target to build an object file
+leetcode/editor/cn/42-trapping-rain-water.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/leetcode/editor/cn/42-trapping-rain-water.cpp.obj
+.PHONY : leetcode/editor/cn/42-trapping-rain-water.cpp.obj
+
+leetcode/editor/cn/42-trapping-rain-water.i: leetcode/editor/cn/42-trapping-rain-water.cpp.i
+.PHONY : leetcode/editor/cn/42-trapping-rain-water.i
+
+# target to preprocess a source file
+leetcode/editor/cn/42-trapping-rain-water.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/leetcode/editor/cn/42-trapping-rain-water.cpp.i
+.PHONY : leetcode/editor/cn/42-trapping-rain-water.cpp.i
+
+leetcode/editor/cn/42-trapping-rain-water.s: leetcode/editor/cn/42-trapping-rain-water.cpp.s
+.PHONY : leetcode/editor/cn/42-trapping-rain-water.s
+
+# target to generate assembly for a file
+leetcode/editor/cn/42-trapping-rain-water.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/leetcode/editor/cn/42-trapping-rain-water.cpp.s
+.PHONY : leetcode/editor/cn/42-trapping-rain-water.cpp.s
 
 leetcode/editor/cn/58-length-of-last-word.obj: leetcode/editor/cn/58-length-of-last-word.cpp.obj
 .PHONY : leetcode/editor/cn/58-length-of-last-word.obj
@@ -1049,6 +1160,7 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 1-two-sum
+	@echo ... 11-container-with-most-water
 	@echo ... 118-pascals-triangle
 	@echo ... 119-pascals-triangle-ii
 	@echo ... 121-best-time-to-buy-and-sell-stock
@@ -1061,10 +1173,12 @@ help:
 	@echo ... 20-valid-parentheses
 	@echo ... 202-happy-number
 	@echo ... 205-isomorphic-strings
+	@echo ... 258-add-digits
 	@echo ... 26-remove-duplicates-from-sorted-array
 	@echo ... 27-remove-element
 	@echo ... 28-implement-strstr
 	@echo ... 35-search-insert-position
+	@echo ... 42-trapping-rain-water
 	@echo ... 58-length-of-last-word
 	@echo ... 66-plus-one
 	@echo ... 67-add-binary
@@ -1079,6 +1193,9 @@ help:
 	@echo ... leetcode/editor/cn/1-two-sum.obj
 	@echo ... leetcode/editor/cn/1-two-sum.i
 	@echo ... leetcode/editor/cn/1-two-sum.s
+	@echo ... leetcode/editor/cn/11-container-with-most-water.obj
+	@echo ... leetcode/editor/cn/11-container-with-most-water.i
+	@echo ... leetcode/editor/cn/11-container-with-most-water.s
 	@echo ... leetcode/editor/cn/118-pascals-triangle.obj
 	@echo ... leetcode/editor/cn/118-pascals-triangle.i
 	@echo ... leetcode/editor/cn/118-pascals-triangle.s
@@ -1115,6 +1232,9 @@ help:
 	@echo ... leetcode/editor/cn/205-isomorphic-strings.obj
 	@echo ... leetcode/editor/cn/205-isomorphic-strings.i
 	@echo ... leetcode/editor/cn/205-isomorphic-strings.s
+	@echo ... leetcode/editor/cn/258-add-digits.obj
+	@echo ... leetcode/editor/cn/258-add-digits.i
+	@echo ... leetcode/editor/cn/258-add-digits.s
 	@echo ... leetcode/editor/cn/26-remove-duplicates-from-sorted-array.obj
 	@echo ... leetcode/editor/cn/26-remove-duplicates-from-sorted-array.i
 	@echo ... leetcode/editor/cn/26-remove-duplicates-from-sorted-array.s
@@ -1127,6 +1247,9 @@ help:
 	@echo ... leetcode/editor/cn/35-search-insert-position.obj
 	@echo ... leetcode/editor/cn/35-search-insert-position.i
 	@echo ... leetcode/editor/cn/35-search-insert-position.s
+	@echo ... leetcode/editor/cn/42-trapping-rain-water.obj
+	@echo ... leetcode/editor/cn/42-trapping-rain-water.i
+	@echo ... leetcode/editor/cn/42-trapping-rain-water.s
 	@echo ... leetcode/editor/cn/58-length-of-last-word.obj
 	@echo ... leetcode/editor/cn/58-length-of-last-word.i
 	@echo ... leetcode/editor/cn/58-length-of-last-word.s

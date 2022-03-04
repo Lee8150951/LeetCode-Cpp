@@ -985,6 +985,50 @@
 					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="258-add-digits">
+				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/258-add-digits.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 258-add-digits"/>
+					<CompileFile command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="258-add-digits/fast">
+				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/258-add-digits.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 258-add-digits/fast"/>
+					<CompileFile command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="205-isomorphic-strings">
 				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/205-isomorphic-strings.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
@@ -1117,6 +1161,94 @@
 					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="11-container-with-most-water">
+				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/11-container-with-most-water.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 11-container-with-most-water"/>
+					<CompileFile command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11-container-with-most-water/fast">
+				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/11-container-with-most-water.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 11-container-with-most-water/fast"/>
+					<CompileFile command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="42-trapping-rain-water">
+				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/42-trapping-rain-water.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 42-trapping-rain-water"/>
+					<CompileFile command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="42-trapping-rain-water/fast">
+				<Option output="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/42-trapping-rain-water.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 42-trapping-rain-water/fast"/>
+					<CompileFile command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1143,6 +1275,9 @@
 		</Unit>
 		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/1-two-sum.cpp">
 			<Option target="1-two-sum"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/11-container-with-most-water.cpp">
+			<Option target="11-container-with-most-water"/>
 		</Unit>
 		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/118-pascals-triangle.cpp">
 			<Option target="118-pascals-triangle"/>
@@ -1180,6 +1315,9 @@
 		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/205-isomorphic-strings.cpp">
 			<Option target="205-isomorphic-strings"/>
 		</Unit>
+		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/258-add-digits.cpp">
+			<Option target="258-add-digits"/>
+		</Unit>
 		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/26-remove-duplicates-from-sorted-array.cpp">
 			<Option target="26-remove-duplicates-from-sorted-array"/>
 		</Unit>
@@ -1191,6 +1329,9 @@
 		</Unit>
 		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/35-search-insert-position.cpp">
 			<Option target="35-search-insert-position"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/42-trapping-rain-water.cpp">
+			<Option target="42-trapping-rain-water"/>
 		</Unit>
 		<Unit filename="E:/CLionProjects/LeetCode-Cpp-master/leetcode/editor/cn/58-length-of-last-word.cpp">
 			<Option target="58-length-of-last-word"/>

@@ -20,8 +20,11 @@ E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/28-implement-s
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/168-excel-sheet-column-title.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/171-excel-sheet-column-number.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/121-best-time-to-buy-and-sell-stock.dir
+E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/258-add-digits.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/205-isomorphic-strings.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/9-palindrome-number.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/69-sqrtx.dir
+E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/11-container-with-most-water.dir
+E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/42-trapping-rain-water.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
