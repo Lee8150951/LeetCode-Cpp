@@ -311,6 +311,19 @@ binary-search/fast:
 .PHONY : 118-pascals-triangle/fast
 
 #=============================================================================
+# Target rules for targets named 136-single-number
+
+# Build rule for target.
+136-single-number: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 136-single-number
+.PHONY : 136-single-number
+
+# fast build rule for target.
+136-single-number/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\136-single-number.dir\build.make CMakeFiles/136-single-number.dir/build
+.PHONY : 136-single-number/fast
+
+#=============================================================================
 # Target rules for targets named 119-pascals-triangle-ii
 
 # Build rule for target.
@@ -478,6 +491,32 @@ binary-search/fast:
 42-trapping-rain-water/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/build
 .PHONY : 42-trapping-rain-water/fast
+
+#=============================================================================
+# Target rules for targets named 70-climbing-stairs
+
+# Build rule for target.
+70-climbing-stairs: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 70-climbing-stairs
+.PHONY : 70-climbing-stairs
+
+# fast build rule for target.
+70-climbing-stairs/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\70-climbing-stairs.dir\build.make CMakeFiles/70-climbing-stairs.dir/build
+.PHONY : 70-climbing-stairs/fast
+
+#=============================================================================
+# Target rules for targets named 191-number-of-1-bits
+
+# Build rule for target.
+191-number-of-1-bits: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 191-number-of-1-bits
+.PHONY : 191-number-of-1-bits
+
+# fast build rule for target.
+191-number-of-1-bits/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\191-number-of-1-bits.dir\build.make CMakeFiles/191-number-of-1-bits.dir/build
+.PHONY : 191-number-of-1-bits/fast
 
 common-algorithm/二分查找.obj: common-algorithm/二分查找.cpp.obj
 .PHONY : common-algorithm/二分查找.obj
@@ -671,6 +710,30 @@ leetcode/editor/cn/13-roman-to-integer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\13-roman-to-integer.dir\build.make CMakeFiles/13-roman-to-integer.dir/leetcode/editor/cn/13-roman-to-integer.cpp.s
 .PHONY : leetcode/editor/cn/13-roman-to-integer.cpp.s
 
+leetcode/editor/cn/136-single-number.obj: leetcode/editor/cn/136-single-number.cpp.obj
+.PHONY : leetcode/editor/cn/136-single-number.obj
+
+# target to build an object file
+leetcode/editor/cn/136-single-number.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\136-single-number.dir\build.make CMakeFiles/136-single-number.dir/leetcode/editor/cn/136-single-number.cpp.obj
+.PHONY : leetcode/editor/cn/136-single-number.cpp.obj
+
+leetcode/editor/cn/136-single-number.i: leetcode/editor/cn/136-single-number.cpp.i
+.PHONY : leetcode/editor/cn/136-single-number.i
+
+# target to preprocess a source file
+leetcode/editor/cn/136-single-number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\136-single-number.dir\build.make CMakeFiles/136-single-number.dir/leetcode/editor/cn/136-single-number.cpp.i
+.PHONY : leetcode/editor/cn/136-single-number.cpp.i
+
+leetcode/editor/cn/136-single-number.s: leetcode/editor/cn/136-single-number.cpp.s
+.PHONY : leetcode/editor/cn/136-single-number.s
+
+# target to generate assembly for a file
+leetcode/editor/cn/136-single-number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\136-single-number.dir\build.make CMakeFiles/136-single-number.dir/leetcode/editor/cn/136-single-number.cpp.s
+.PHONY : leetcode/editor/cn/136-single-number.cpp.s
+
 leetcode/editor/cn/14-longest-common-prefix.obj: leetcode/editor/cn/14-longest-common-prefix.cpp.obj
 .PHONY : leetcode/editor/cn/14-longest-common-prefix.obj
 
@@ -766,6 +829,30 @@ leetcode/editor/cn/171-excel-sheet-column-number.s: leetcode/editor/cn/171-excel
 leetcode/editor/cn/171-excel-sheet-column-number.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\171-excel-sheet-column-number.dir\build.make CMakeFiles/171-excel-sheet-column-number.dir/leetcode/editor/cn/171-excel-sheet-column-number.cpp.s
 .PHONY : leetcode/editor/cn/171-excel-sheet-column-number.cpp.s
+
+leetcode/editor/cn/191-number-of-1-bits.obj: leetcode/editor/cn/191-number-of-1-bits.cpp.obj
+.PHONY : leetcode/editor/cn/191-number-of-1-bits.obj
+
+# target to build an object file
+leetcode/editor/cn/191-number-of-1-bits.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\191-number-of-1-bits.dir\build.make CMakeFiles/191-number-of-1-bits.dir/leetcode/editor/cn/191-number-of-1-bits.cpp.obj
+.PHONY : leetcode/editor/cn/191-number-of-1-bits.cpp.obj
+
+leetcode/editor/cn/191-number-of-1-bits.i: leetcode/editor/cn/191-number-of-1-bits.cpp.i
+.PHONY : leetcode/editor/cn/191-number-of-1-bits.i
+
+# target to preprocess a source file
+leetcode/editor/cn/191-number-of-1-bits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\191-number-of-1-bits.dir\build.make CMakeFiles/191-number-of-1-bits.dir/leetcode/editor/cn/191-number-of-1-bits.cpp.i
+.PHONY : leetcode/editor/cn/191-number-of-1-bits.cpp.i
+
+leetcode/editor/cn/191-number-of-1-bits.s: leetcode/editor/cn/191-number-of-1-bits.cpp.s
+.PHONY : leetcode/editor/cn/191-number-of-1-bits.s
+
+# target to generate assembly for a file
+leetcode/editor/cn/191-number-of-1-bits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\191-number-of-1-bits.dir\build.make CMakeFiles/191-number-of-1-bits.dir/leetcode/editor/cn/191-number-of-1-bits.cpp.s
+.PHONY : leetcode/editor/cn/191-number-of-1-bits.cpp.s
 
 leetcode/editor/cn/20-valid-parentheses.obj: leetcode/editor/cn/20-valid-parentheses.cpp.obj
 .PHONY : leetcode/editor/cn/20-valid-parentheses.obj
@@ -1079,6 +1166,30 @@ leetcode/editor/cn/69-sqrtx.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\69-sqrtx.dir\build.make CMakeFiles/69-sqrtx.dir/leetcode/editor/cn/69-sqrtx.cpp.s
 .PHONY : leetcode/editor/cn/69-sqrtx.cpp.s
 
+leetcode/editor/cn/70-climbing-stairs.obj: leetcode/editor/cn/70-climbing-stairs.cpp.obj
+.PHONY : leetcode/editor/cn/70-climbing-stairs.obj
+
+# target to build an object file
+leetcode/editor/cn/70-climbing-stairs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\70-climbing-stairs.dir\build.make CMakeFiles/70-climbing-stairs.dir/leetcode/editor/cn/70-climbing-stairs.cpp.obj
+.PHONY : leetcode/editor/cn/70-climbing-stairs.cpp.obj
+
+leetcode/editor/cn/70-climbing-stairs.i: leetcode/editor/cn/70-climbing-stairs.cpp.i
+.PHONY : leetcode/editor/cn/70-climbing-stairs.i
+
+# target to preprocess a source file
+leetcode/editor/cn/70-climbing-stairs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\70-climbing-stairs.dir\build.make CMakeFiles/70-climbing-stairs.dir/leetcode/editor/cn/70-climbing-stairs.cpp.i
+.PHONY : leetcode/editor/cn/70-climbing-stairs.cpp.i
+
+leetcode/editor/cn/70-climbing-stairs.s: leetcode/editor/cn/70-climbing-stairs.cpp.s
+.PHONY : leetcode/editor/cn/70-climbing-stairs.s
+
+# target to generate assembly for a file
+leetcode/editor/cn/70-climbing-stairs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\70-climbing-stairs.dir\build.make CMakeFiles/70-climbing-stairs.dir/leetcode/editor/cn/70-climbing-stairs.cpp.s
+.PHONY : leetcode/editor/cn/70-climbing-stairs.cpp.s
+
 leetcode/editor/cn/88-merge-sorted-array.obj: leetcode/editor/cn/88-merge-sorted-array.cpp.obj
 .PHONY : leetcode/editor/cn/88-merge-sorted-array.obj
 
@@ -1166,10 +1277,12 @@ help:
 	@echo ... 121-best-time-to-buy-and-sell-stock
 	@echo ... 125-valid-palindrome
 	@echo ... 13-roman-to-integer
+	@echo ... 136-single-number
 	@echo ... 14-longest-common-prefix
 	@echo ... 168-excel-sheet-column-title
 	@echo ... 169-majority-element
 	@echo ... 171-excel-sheet-column-number
+	@echo ... 191-number-of-1-bits
 	@echo ... 20-valid-parentheses
 	@echo ... 202-happy-number
 	@echo ... 205-isomorphic-strings
@@ -1183,6 +1296,7 @@ help:
 	@echo ... 66-plus-one
 	@echo ... 67-add-binary
 	@echo ... 69-sqrtx
+	@echo ... 70-climbing-stairs
 	@echo ... 88-merge-sorted-array
 	@echo ... 9-palindrome-number
 	@echo ... LeetCode_Cpp
@@ -1211,6 +1325,9 @@ help:
 	@echo ... leetcode/editor/cn/13-roman-to-integer.obj
 	@echo ... leetcode/editor/cn/13-roman-to-integer.i
 	@echo ... leetcode/editor/cn/13-roman-to-integer.s
+	@echo ... leetcode/editor/cn/136-single-number.obj
+	@echo ... leetcode/editor/cn/136-single-number.i
+	@echo ... leetcode/editor/cn/136-single-number.s
 	@echo ... leetcode/editor/cn/14-longest-common-prefix.obj
 	@echo ... leetcode/editor/cn/14-longest-common-prefix.i
 	@echo ... leetcode/editor/cn/14-longest-common-prefix.s
@@ -1223,6 +1340,9 @@ help:
 	@echo ... leetcode/editor/cn/171-excel-sheet-column-number.obj
 	@echo ... leetcode/editor/cn/171-excel-sheet-column-number.i
 	@echo ... leetcode/editor/cn/171-excel-sheet-column-number.s
+	@echo ... leetcode/editor/cn/191-number-of-1-bits.obj
+	@echo ... leetcode/editor/cn/191-number-of-1-bits.i
+	@echo ... leetcode/editor/cn/191-number-of-1-bits.s
 	@echo ... leetcode/editor/cn/20-valid-parentheses.obj
 	@echo ... leetcode/editor/cn/20-valid-parentheses.i
 	@echo ... leetcode/editor/cn/20-valid-parentheses.s
@@ -1262,6 +1382,9 @@ help:
 	@echo ... leetcode/editor/cn/69-sqrtx.obj
 	@echo ... leetcode/editor/cn/69-sqrtx.i
 	@echo ... leetcode/editor/cn/69-sqrtx.s
+	@echo ... leetcode/editor/cn/70-climbing-stairs.obj
+	@echo ... leetcode/editor/cn/70-climbing-stairs.i
+	@echo ... leetcode/editor/cn/70-climbing-stairs.s
 	@echo ... leetcode/editor/cn/88-merge-sorted-array.obj
 	@echo ... leetcode/editor/cn/88-merge-sorted-array.i
 	@echo ... leetcode/editor/cn/88-merge-sorted-array.s

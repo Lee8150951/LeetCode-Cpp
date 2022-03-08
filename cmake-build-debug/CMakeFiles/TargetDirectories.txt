@@ -13,6 +13,7 @@ E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/67-add-binary.
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/88-merge-sorted-array.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/169-majority-element.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/118-pascals-triangle.dir
+E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/136-single-number.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/119-pascals-triangle-ii.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/14-longest-common-prefix.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/20-valid-parentheses.dir
@@ -26,5 +27,7 @@ E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/9-palindrome-n
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/69-sqrtx.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/11-container-with-most-water.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/42-trapping-rain-water.dir
+E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/70-climbing-stairs.dir
+E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/191-number-of-1-bits.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/CLionProjects/LeetCode-Cpp-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

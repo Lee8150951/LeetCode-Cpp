@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/136-single-number.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/136-single-number.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com136" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/136-single-number.cpp" />
+              <option name="titleSlug" value="single-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/14-longest-common-prefix.cpp">
           <value>
             <LeetcodeEditor>
@@ -88,6 +99,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/14-longest-common-prefix.cpp" />
               <option name="titleSlug" value="longest-common-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/155-min-stack.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/155-min-stack.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com155" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/155-min-stack.cpp" />
+              <option name="titleSlug" value="min-stack" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -121,6 +143,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/171-excel-sheet-column-number.cpp" />
               <option name="titleSlug" value="excel-sheet-column-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/191-number-of-1-bits.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/191-number-of-1-bits.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com191" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/191-number-of-1-bits.cpp" />
+              <option name="titleSlug" value="number-of-1-bits" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -275,6 +308,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/69-sqrtx.cpp" />
               <option name="titleSlug" value="sqrtx" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/70-climbing-stairs.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/70-climbing-stairs.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com70" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/70-climbing-stairs.cpp" />
+              <option name="titleSlug" value="climbing-stairs" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -42,7 +42,10 @@
 						24,
 						25,
 						26,
-						27
+						27,
+						28,
+						29,
+						30
 					]
 				}
 			],
@@ -84,7 +87,10 @@
 						24,
 						25,
 						26,
-						27
+						27,
+						28,
+						29,
+						30
 					]
 				}
 			],
@@ -141,6 +147,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "136-single-number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-136-single-number-Debug-06d94425ad6fefd43af3.json",
+					"name" : "136-single-number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "14-longest-common-prefix::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-14-longest-common-prefix-Debug-07dc10ca70d41d934a23.json",
 					"name" : "14-longest-common-prefix",
@@ -165,6 +178,13 @@
 					"id" : "171-excel-sheet-column-number::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-171-excel-sheet-column-number-Debug-5404ddb832adef3713a7.json",
 					"name" : "171-excel-sheet-column-number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "191-number-of-1-bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-191-number-of-1-bits-Debug-a210c0a78d333f417a32.json",
+					"name" : "191-number-of-1-bits",
 					"projectIndex" : 0
 				},
 				{
@@ -256,6 +276,13 @@
 					"id" : "69-sqrtx::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-69-sqrtx-Debug-aabe686781f2fefac7a2.json",
 					"name" : "69-sqrtx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "70-climbing-stairs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-70-climbing-stairs-Debug-8617f54683d303b16d63.json",
+					"name" : "70-climbing-stairs",
 					"projectIndex" : 0
 				},
 				{
